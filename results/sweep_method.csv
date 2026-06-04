@@ -1,0 +1,5 @@
+method,test_rmse
+baseline: global mean,1.0269
+baseline: per-user mean,0.9679
+PMF MAP (K=10),0.8285
+PMF SVI (K=10),0.8194
