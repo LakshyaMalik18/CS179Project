@@ -10,7 +10,7 @@ import pmf
 RESULTS = "results"
 FIGS = os.path.join(RESULTS, "figs")
 SEED = 0
-SEEDS = (0, 1, 2)
+SEEDS = (0, 1, 2, 3, 4)
 NUM_STEPS = 1500
 TEST_FRAC = 0.2
 FIXED_K = 10

@@ -1,5 +1,5 @@
 method,mean_rmse,std_rmse
-baseline: global mean,1.0267,0.0003
-baseline: per-user mean,0.9664,0.001
-PMF MAP (K=10),0.8276,0.0008
-PMF SVI (K=10),0.8181,0.001
+baseline: global mean,1.0282,0.003
+baseline: per-user mean,0.9676,0.0017
+PMF MAP (K=10),0.8284,0.0018
+PMF SVI (K=10),0.8186,0.0012
